@@ -9,7 +9,7 @@ To run this project locally, run the following command  `npm start`, this will s
 
 ### Netlify Deployment
 
-SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
+SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacextushya.netlify.app)
 
 
 ## UI And Filter Implementation
