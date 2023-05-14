@@ -1,0 +1,15 @@
+this._s=this._s||{};(function(_){var window=this;
+try{
+var jXe=function(a){_.z.call(this,a)};_.C(jXe,_.z);jXe.prototype.Nla=function(){return _.ib(this,1)};_.kXe=function(){var a=new jXe;a=_.q(a,1,1);return _.q(a,2,1)};jXe.prototype.Ya="SMSkB";var lXe=function(a){_.z.call(this,a)};_.C(lXe,_.z);lXe.prototype.Ya="s5PeBc";new _.bg(jXe);new _.bg(lXe,1E3);_.cp.s5PeBc=_.bp;_.mXe=new _.Ef("VbSMl",lXe,jXe,[{key:_.Fq,value:!1},{key:_.Gq,value:"/MyactivityService.ExternalDelete"}]);new _.bg(jXe);new _.bg(lXe,1E3);_.cp.s5PeBc=_.bp;
+}catch(e){_._DumpException(e)}
+try{
+_.l("rFNHyc");
+var nXe=new _.jp(158520),oXe=function(a,b){a=a||{};return _.$We(b,a.state)},pXe=function(a,b){a='<div class="'+_.N("ghcDPe")+'"><div class="'+_.N("hHbytd")+'">';b=(0,_.L)('<div class="'+_.N("u0wZ6e")+'">'+_.JWe(b,24)+"</div>");b=a+b+'</div><div class="'+_.N("ZcIEF")+'">';a="You might also want to review what's being saved by this browser.\u00a0<span jsaction=\"click:"+(_.N("Gsg9zb")+'" data-ved=""'+_.ff("Dnz1jb",[],"data-ved")+_.ef(new _.kp(nXe,null),!1)+'><a class="')+(_.N("wYHwUe")+'" href="https://support.google.com/accounts/answer/465#other-places&zippy=a%2Cdelete-browser-activity" target="_blank">Learn how</a></span>');
+return(0,_.L)(b+a+"</div></div>")},rXe=function(a){_.y.call(this,a.La);this.state=1;this.oa=!1;this.wa=qXe(158818);this.Da=qXe(158520);this.ff=a.Uc.ff;this.jd=a.service.xe;this.kc=a.service.Hc;this.jq=a.service.Xi;this.Vc=null};_.C(rXe,_.y);rXe.Ea=function(){return{Uc:{ff:_.Rp},service:{xe:_.$r,Hc:_.Lu,Xi:_.Nu}}};rXe.prototype.getState=function(){return this.state};var vXe=function(a,b){a.state=b;sXe(a,b);a.oa||1===b||tXe(a);uXe(a,1)};
+rXe.prototype.Ba=function(a){this.kc.oa({Og:_.uf(a.actionElement.el(),3)});this.Da()};rXe.prototype.Aa=function(){var a=this;uXe(this,3);var b=this.getState();switch(b){case 1:case 5:case 3:case 6:vXe(this,2);this.wa();b=this.getData("lqdct").Jb()?5E3:3E3;this.ka=setTimeout(function(){wXe(a);a.ka=void 0},b);break;case 2:clearTimeout(this.ka);this.ka=void 0;vXe(this,3);break;case 4:break;case 0:break;default:_.ed(b,"Unhandled enum case")}};
+var sXe=function(a,b){var c=a.Ca("itaskb");c.empty();var d=_.Ou(a.jq,function(){return a.ff.Bf(oXe,{state:b})},{ti:_.vf(c.el(),3)});c.append(d)},tXe=function(a){var b=a.Ca("MV7cDd"),c=_.Ou(a.jq,function(){return a.ff.Bf(pXe)},{ti:_.vf(b.el(),3)});b.append(c);a.oa=!0},uXe=function(a,b){var c=a.Ca("rQmgr").el();c&&a.kc.oa({Og:_.uf(c,b)})},wXe=function(a){_.Ce(function(b){if(1==b.ka)return vXe(a,4),_.tg(b,2),_.De(b,xXe(a),4);if(2!=b.ka)return vXe(a,5),_.wg(b,0);_.xg(b);vXe(a,6);_.Fe(b)})},xXe=function(a){var b;
+return _.Ce(function(c){b=_.kXe();return _.De(c,a.jd.uc(_.mXe.Zb(b)),0)})},qXe=function(a){return _.cqa(function(){var b=_.LD(new _.ID,_.KD(new _.HD,a));_.Te(document,_.MD,{sH:b})})};_.K(rXe.prototype,"vuShse",function(){return this.Aa});_.K(rXe.prototype,"Gsg9zb",function(){return this.Ba});_.K(rXe.prototype,"XiN8De",function(){return this.getState});_.ts(_.nUb,rXe);
+_.n();
+}catch(e){_._DumpException(e)}
+})(this._s);
+// Google Inc.
